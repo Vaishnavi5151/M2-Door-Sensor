@@ -2,21 +2,11 @@ DOOR SENSOR:
 
 Introduction: 
  
-it uses a motion detecting sensor when anyone open the door it light the room automatically.
-
-we can uses this in future to send a message when the door is open when we are in in home.
-
-its usefull for security propose in homes.
+it uses a motion detecting sensor when anyone open the door it light the room automatically.we can uses this in future to send a message when the door is open when we are in in home.its usefull for security propose in homes.
 
 Feature:
 
-Its is useful in home security with the help of the project
-
-A door contact sensor is a peripheral security sensor that lets an alarm system know whether a door is opened or closed.
-
-When a door is opened, the sensor will activate and let the system know about the situation. The system will then respond based on the programming settings for that
-
-zone.
+Its is useful in home security with the help of the project A door contact sensor is a peripheral security sensor that lets an alarm system know whether a door is opened or closed. When a door is opened, the sensor will activate and let the system know about the situation. The system will then respond based on the programming settings for that zone.
 
 Benefits:
 
