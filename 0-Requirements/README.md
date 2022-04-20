@@ -2,7 +2,7 @@ DOOR SENSOR:
 
 Introduction: 
  
-it uses a motion detecting sensor when anyone open the door it light the room automatically.we can uses this in future to send a message when the door is open when we are in in home.its usefull for security propose in homes.
+it uses a detecting sensor when anyone open the door light will be on automatically in room.we can use this in future to send a message when the door is open when we are in in home.its usefull for security propose in homes.
 
 Feature:
 
