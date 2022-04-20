@@ -6,7 +6,7 @@ it uses a detecting sensor when anyone open the door light will be on automatica
 
 Feature:
 
-Its is useful in home security with the help of the project A door contact sensor is a peripheral security sensor that lets an alarm system know whether a door is opened or closed. When a door is opened, the sensor will activate and let the system know about the situation. The system will then respond based on the programming settings for that zone.
+Its is useful in home security with the help of the project A door contact sensor is a peripheral security sensor that lets an lighting system know whether a door is opened or closed. When a door is opened, the sensor will activate and let the system know about the situation. The system will then respond based on the programming settings for that zone.
 
 Benefits:
 
