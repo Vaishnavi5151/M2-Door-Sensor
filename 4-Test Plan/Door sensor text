@@ -1,0 +1,7 @@
+
+## Table : test plan
+
+| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  C_01       | when person open the door | Person come near to the door | LED Signal is ON | LED Signal is ON  |Requirement based |
+|  C_02       | When person closes the door | No one available at the door | LED Signal is OFF |  LED Signal is OFF |  Requirement Based |
